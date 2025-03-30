@@ -1,0 +1,90 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Crawl web data to JSON
+        run: python scripts/full/crawl_to_full_json.py
+
+      - name: Convert full JSON to CSV
+        run: python scripts/full/full_json_to_csv.py
+
+      - name: Convert full JSON to Markdown
+        run: python scripts/full/full_json_to_md.py
+
+      - name: Filter JSON by hour
+        run: python scripts/filter/full_json_to_by_hour_md.py
+
+      - name: Filter JSON by limitation
+        run: python scripts/filter/full_json_to_by_limitation_md.py
+
+      - name: Filter JSON by type
+        run: python scripts/filter/full_json_to_by_type_md.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Make commits
+        run: |          
+          git add data/full/full.json
+          git add data/full/full.csv
+          git add data/full/full.md
+          git commit -m "Update full data" || echo "No changes to commit"
+          
+          git add data/by-hour/activity-hours.md
+          git add data/by-hour/course-hours.md
+          git add data/by-hour/diverse-learning.md
+          git add data/by-hour/no-hour.md
+          git commit -m "Update by-hour data" || echo "No changes to commit"
+          
+          git add data/by-limitation/for-cs-student.md
+          git add data/by-limitation/for-dorm-student.md
+          git add data/by-limitation/for-oc-student.md
+          git add data/by-limitation/other-limitation.md
+          git add data/by-limitation/no-limitation.md
+          git commit -m "Update by-limitation data" || echo "No changes to commit"
+          
+          git add data/by-type/non-online-signup.md
+          git commit -m "Update by-type data" || echo "No changes to commit"
+
+      - name: Set timezone to Asia/Taipei and get current time
+        run: |
+          sudo apt-get install -y tzdata
+          export TZ=Asia/Taipei
+          DATE=$(date "+%Y-%m-%d %H:%M:%S (UTC+8)")
+          echo "CURRENT_TIME=$DATE" >> $GITHUB_ENV
+
+      - name: Update timestamp in README.md
+        run: |
+          FILE="README.md"
+          sed -i -E "s/(<!--START_GA_LAST_UPDATED-->).*(<!--END_GA_LAST_UPDATED-->)/\1 \`$CURRENT_TIME\` \2/" "$FILE"
+
+      - name: Commit changes to README.md
+        run: |
+          git add README.md
+          git commit -m "Update timestamp"
+
+      - name: Push commits
+        run: | 
+          git push
