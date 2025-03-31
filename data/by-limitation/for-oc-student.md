@@ -7,7 +7,7 @@
 
 | 專頁 | 活動名稱 | 活動日期 | 活動地點 | 報名日期 | 報名狀態 | 服務學習 | 多元學習護照時數 |
 |----|----|----|----|----|----|----|----|
-| 軍訓室 | [僑生愛護環境淨灘活動(限本校僑生參加)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14251) | 2025.05.17(六) 上午 08:00 ~ 2025.05.17(六) 下午 05:00 | 野柳地質公園 | 2025.03.14(五) ~ 2025.04.30(三) 線上報名 | 已報名人數：3 名額限制：10 | 8 社區服務(活動時數) Community Service | 無 |
+| 軍訓室 | [僑生愛護環境淨灘活動(限本校僑生參加)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14251) | 2025.05.17(六) 上午 08:00 ~ 2025.05.17(六) 下午 05:00 | 野柳地質公園 | 2025.03.14(五) ~ 2025.04.30(三) 線上報名 | 已報名人數：7 名額限制：10 | 8 社區服務(活動時數) Community Service | 無 |
 | 軍訓室 | [僑生社團幹部成長訓練暨志工愛護社區環境活動(限本校僑生參加，課程時數)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14068) | 2025.04.12(六) 上午 08:00 ~ 2025.04.13(日) 下午 05:00 | 台南市北門社區 | 2025.02.26(三) ~ 2025.03.31(一) 線上報名 | 已報名人數：11 名額限制：30 | 8 學務課程(課程時數) Student Affair Course | 無 |
 | 軍訓室 | [僑生社團幹部成長訓練暨志工愛護社區環境活動(限本校僑生參加，活動時數)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14067) | 2025.04.12(六) 上午 08:00 ~ 2025.04.13(日) 下午 05:00 | 台南市北門社區 | 2025.02.26(三) ~ 2025.03.31(一) 線上報名 | 已報名人數：7 名額限制：30 | 8 社區服務(活動時數) Community Service | 無 |
 
