@@ -24,7 +24,6 @@
 | 軍訓室 | [僑生愛護環境淨灘活動(限本校僑生參加，需收活動費200元)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14251) | 2025.05.17(六) 上午 08:00 ~ 2025.05.17(六) 下午 05:00 | 野柳地質公園 | 2025.03.14(五) ~ 2025.04.30(三) 線上報名 | 已報名人數：3 名額限制：10 | 8 社區服務(活動時數) Community Service | 無 |
 | 軍訓室 | [114年「畢業典禮服務志工」服務學習活動【限1~3年級同學參加】](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14237) | 2025.05.23(五) 上午 08:00 ~ 2025.05.24(六) 下午 09:00 | 五館前(畢業典禮會場) | 2025.03.13(四) ~ 2025.04.30(三) 線上報名 | 已報名人數：56 名額限制：30 候補人數：26 | 18 愛校服務(活動時數) Campus-loving Service | 無 |
 | 工業工程與管理學系 | [113-2 弦樂社興仁國小社區結盟（提供已先向本社報名的同學參加）](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14212) | 2025.03.10(一) 上午 07:30 ~ 2025.05.19(一) 上午 08:30 | 興仁國小 | 2025.03.10(一) ~ 2025.05.19(一) 線上報名 | 已報名人數：10 名額限制：12 | 8 社區服務(活動時數) Community Service | 無 |
-| 軍訓室 | [113-2學期協助宿舍美化環境----歡迎同學報名，請報名後並到宿服組登記來的時間](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=13881) | 2025.02.17(一) 上午 08:00 ~ 2025.06.30(一) 下午 05:00 | 學生宿舍 | 2025.02.05(三) ~ 2025.06.01(日) 線上報名 | 已報名人數：89 名額限制：90 | 18 愛校服務(活動時數) Campus-loving Service | 無 |
 | 軍訓室 | [113學年度第2學期「交通安全宣導教育及巡查」學生活動服務學習（不適用多元學習護照）](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=13866) | 2025.02.17(一) 上午 09:00 ~ 2025.06.13(五) 下午 04:00 | R8204及校園各處 | 2025.02.10(一) ~ 2025.06.06(五) 線上報名 | 已報名人數：84 名額限制：200 | 18 愛校服務(活動時數) Campus-loving Service | 無 |
 
 
@@ -42,6 +41,7 @@ No data available
 |----|----|----|----|----|----|----|----|
 | 軍訓室 | [114年交通安全教育宣導活動—交通事故處理演示 Traffic safety education and publicity activities](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14051) | 2025.04.23(三) 下午 12:00 ~ 2025.04.23(三) 下午 02:00 | 2008教室 | 2025.02.26(三) ~ 2025.04.22(二) 名額已滿 | 已報名人數：80 名額限制：80 | 2 愛校服務(活動時數) Campus-loving Service | 無 |
 | 軍訓室 | [113學年第2學期校園交通安全「大客（貨）車內輪差安全距離教育」宣導活動（活動時數2小時）](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=13944) | 2025.04.16(三) 下午 12:00 ~ 2025.04.16(三) 下午 02:00 | 五館1樓廣場 | 2025.02.24(一) ~ 2025.04.15(二) 名額已滿 | 已報名人數：300 名額限制：300 | 2 愛校服務(活動時數) Campus-loving Service | 無 |
+| 軍訓室 | [113-2學期協助宿舍美化環境----歡迎同學報名，請報名後並到宿服組登記來的時間](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=13881) | 2025.02.17(一) 上午 08:00 ~ 2025.06.30(一) 下午 05:00 | 學生宿舍 | 2025.02.05(三) ~ 2025.06.01(日) 名額已滿 | 已報名人數：90 名額限制：90 | 18 愛校服務(活動時數) Campus-loving Service | 無 |
 
 
 快速跳轉： [報名進行中](#報名進行中) | [報名尚未開始](#報名尚未開始) | [其他](#其他)
