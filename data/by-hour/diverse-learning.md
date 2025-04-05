@@ -7,8 +7,8 @@
 
 | 專頁 | 活動名稱 | 活動日期 | 活動地點 | 報名日期 | 報名狀態 | 服務學習 | 多元學習護照時數 |
 |----|----|----|----|----|----|----|----|
-| 全球事務處 | [歡迎參加 2025年韓國中央大學暑假學校說明會 2025 CAU International Summer Program Info Session](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14472) | 2025.04.16(三) 下午 04:10 ~ 2025.04.16(三) 下午 05:10 | R60203 | 2025.04.01(二) ~ 2025.04.15(二) 線上報名 | 已報名人數：57 名額限制：50 候補人數：7 | 無 | 1小時 |
-| 學務處 | [職涯特讚隊【113-2團隊培訓】 (限定持有多元護照者參加)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14450) | 2025.04.23(三) 下午 06:00 ~ 2025.04.23(三) 下午 08:00 | R3306 | 2025.03.31(一) ~ 2025.04.21(一) 線上報名 | 已報名人數：18 名額限制：35 候補人數：0 | 無 | 2小時 |
+| 全球事務處 | [歡迎參加 2025年韓國中央大學暑假學校說明會 2025 CAU International Summer Program Info Session](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14472) | 2025.04.16(三) 下午 04:10 ~ 2025.04.16(三) 下午 05:10 | R60203 | 2025.04.01(二) ~ 2025.04.15(二) 線上報名 | 已報名人數：58 名額限制：50 候補人數：8 | 無 | 1小時 |
+| 學務處 | [職涯特讚隊【113-2團隊培訓】 (限定持有多元護照者參加)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=14450) | 2025.04.23(三) 下午 06:00 ~ 2025.04.23(三) 下午 08:00 | R3306 | 2025.03.31(一) ~ 2025.04.21(一) 線上報名 | 已報名人數：19 名額限制：35 候補人數：0 | 無 | 2小時 |
 | 學務處 | [【1140423 UCAN解測說明會 0226/0326/0423請擇一參加】114年度多元學習護照首領金認證必備條件，請務必報名參加(限定符合多元學習護照資格者)](https://portalx.yzu.edu.tw/PortalSocialVB/FPage/PageActivityDetail.aspx?Menu=Act&ActID=13904) | 2025.04.23(三) 下午 12:00 ~ 2025.04.23(三) 下午 02:00 | R70105 | 2025.02.10(一) ~ 2025.04.20(日) 線上報名 | 已報名人數：79 名額限制：115 候補人數：0 | 無 | 2小時 |
 
 
